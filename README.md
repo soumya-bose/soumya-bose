@@ -34,10 +34,10 @@
   <img src="https://github-readme-stats.shion.dev/api?username=soumya-bose&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=soumya-bose&theme=neon&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=soumya-bose&theme=dark&hide_border=false" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya-bose&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=soumya-bose&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ## 🏆 GitHub Trophies
